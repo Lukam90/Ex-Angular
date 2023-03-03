@@ -15,7 +15,7 @@ ng serve
 
 **Packages**
 
-?
+ng add @fortawesome/angular-fontawesome
 
 **Components**
 

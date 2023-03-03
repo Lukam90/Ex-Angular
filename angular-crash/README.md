@@ -20,7 +20,9 @@ ng serve
 **Components**
 
 ng generate component components/header<br>
-ng generate component components/button
+ng generate component components/button<br>
+ng generate component components/tasks<br>
+ng generate component components/task-item
 
 **Services**
 

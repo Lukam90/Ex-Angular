@@ -1,27 +1,21 @@
-# Ex-Angular
+# angular-crash
 
 ## Commands
 
-**Versions**
-
-node --version
-
-ng version
-
 **Create**
 
-ng new angular-crud
+ng new angular-crash
 
-- Routing [y]
-- SCSS
-
-**Packages**
-
-ng add @angular/material
+- Routing [n]
+- CSS
 
 **Run**
 
 ng serve
+
+**Packages**
+
+?
 
 **Components**
 

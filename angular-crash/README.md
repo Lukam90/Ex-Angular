@@ -26,11 +26,11 @@ ng generate component components/task-item
 
 **Services**
 
-
+ng generate service services/task
 
 **JSON Server**
 
-npm install -g json-server
+npm i json-server
 
 json-server -v
 

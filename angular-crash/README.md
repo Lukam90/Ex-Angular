@@ -19,11 +19,12 @@ ng serve
 
 **Components**
 
-ng g c dialog
+ng generate component components/header<br>
+ng generate component components/button
 
 **Services**
 
-ng g s services/api
+
 
 **JSON Server**
 

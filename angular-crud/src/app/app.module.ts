@@ -18,6 +18,7 @@ import { MatRadioModule } from "@angular/material/radio";
 import { MatNativeDateModule } from "@angular/material/core";
 
 import { DialogComponent } from './dialog/dialog.component';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -37,7 +38,9 @@ import { DialogComponent } from './dialog/dialog.component';
     MatSelectModule,
     MatDatepickerModule,
     MatNativeDateModule,
-    MatRadioModule
+    MatRadioModule,
+    ReactiveFormsModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

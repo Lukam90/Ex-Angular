@@ -22,7 +22,8 @@ ng add @fortawesome/angular-fontawesome
 ng generate component components/header<br>
 ng generate component components/button<br>
 ng generate component components/tasks<br>
-ng generate component components/task-item
+ng generate component components/task-item<br>
+ng generate component components/add-task
 
 **Services**
 

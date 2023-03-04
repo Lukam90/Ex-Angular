@@ -27,7 +27,8 @@ ng generate component components/add-task
 
 **Services**
 
-ng generate service services/task
+ng generate service services/task<br>
+ng generate service services/ui
 
 **JSON Server**
 
